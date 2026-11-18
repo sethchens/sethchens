@@ -21,5 +21,9 @@ Lately I've been most interested in ML engineering and in making AI agents usefu
 
 **MCP server at the FTC** (work project, private repo): I built an MCP server that lets AI agents pull data from Kuali, Canvas, and other internal systems. It helps my manager get the status of course change requests 15% faster.
 
+## GitHub stats
+<img src="https://github-readme-stats.vercel.app/api?username=sethchens&show_icons=true&count_private=true&hide_border=true" alt="Seth's GitHub stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethchens&layout=compact&hide_border=true" alt="Top languages" height="165"/>
+
 ## Let's connect
 [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chen-seth/)
