@@ -17,6 +17,8 @@ Lately I've been most interested in ML engineering and in making AI agents usefu
 
 **[Transformer-Model](https://github.com/sethchens/Transformer-Model)** (senior project): I built a GPT-style transformer from scratch in PyTorch to understand how self-attention actually works, then trained it on TinyStories. I also ran experiments on training stability. Adding LR warmup and gradient clipping brought validation perplexity down from 6.82 to 6.04.
 
+**BYU-I 2024 Hackathon** (private repo): I built a web app where you upload a photo, and a Firebase Cloud Function runs Facebook's DETR (ResNet-50) object detection model to find the people in it and send back where they are.
+
 **MCP server at the FTC** (work project, private repo): I built an MCP server that lets AI agents pull data from Kuali, Canvas, and other internal systems. It helps my manager get the status of course change requests 15% faster.
 
 ## Let's connect
