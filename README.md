@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Seth 👋
 
-<!--
-**sethchens/sethchens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at BYU-Idaho (ML emphasis), graduating in Fall 2026. I also work as an engineer at BYU-I's Faculty and Technology Center, where my main job is making professors' day-to-day work easier.
 
-Here are some ideas to get you started:
+Lately I've been most interested in ML engineering and in making AI agents useful and safe to work with.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I use
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
+</div>
+
+## Projects
+
+**[Transformer-Model](https://github.com/sethchens/Transformer-Model)** (senior project): I built a GPT-style transformer from scratch in PyTorch to understand how self-attention actually works, then trained it on TinyStories. I also ran experiments on training stability. Adding LR warmup and gradient clipping brought validation perplexity down from 6.82 to 6.04.
+
+**MCP server at the FTC** (work project, private repo): I built an MCP server that lets AI agents pull data from Kuali, Canvas, and other internal systems. It helps my manager get the status of course change requests 15% faster.
+
+## Let's connect
+[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chen-seth/)
